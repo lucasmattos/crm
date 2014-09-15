@@ -1,0 +1,15 @@
+{
+	"fields": {
+		"name": "Name",
+		"roles": "Rollen"
+	},
+	"links": {
+		"users": "Benutzer"
+	},
+	"tooltips": {
+		"roles": "Alle Benutzer dieses Teams erben die Zugriffsrechte von ausgewählten Rollen."
+	},
+	"labels": {
+		"Create Team": "Neues Team"
+	}
+}

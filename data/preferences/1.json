@@ -1,0 +1,1 @@
+{"id":"1","timeZone":"UTC","dateFormat":"DD.MM.YYYY","timeFormat":"HH:mm","weekStart":0,"thousandSeparator":".","decimalMark":",","defaultCurrency":"BRL","dashboardLayout":[[{"name":"Stream","id":"d4"},{"name":"Calls","id":"d1"}],[{"name":"Tasks","id":"d3"}]],"smtpPort":25,"smtpAuth":false,"language":"pt_BR","exportDelimiter":",","receiveAssignmentEmailNotifications":true}
